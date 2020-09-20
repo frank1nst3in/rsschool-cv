@@ -4,5 +4,5 @@
 4.
 5.
 6.
-7.Higher education (engineer of infocommunacation)
-8.English level is A2
+7. Higher education (engineer of infocommunacation)
+8. English level is A2
